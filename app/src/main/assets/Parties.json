@@ -1,0 +1,67 @@
+{
+  "Parties":
+  [
+    {
+      "PartyID":"1",
+      "PartyName":"Именины",
+      "AuthorID": "2",
+      "imageURL":"https://krot.info/uploads/posts/2020-01/1579424907_41-77.jpg"
+    },
+    {
+      "PartyID":"2",
+      "PartyName":"Встреча",
+      "AuthorID": "1",
+      "imageURL":"https://krot.info/uploads/posts/2020-01/1579424907_3-7.jpg"
+    }
+  ],
+
+  "Users":
+  [
+    {
+      "UserID":"1",
+      "UserName":"Джек",
+      "imageURL":"https://interesno-vse.ru/wp-content/uploads/captain_jack_sparrow_11.jpg"
+    },
+    {
+      "UserID":"2",
+      "UserName":"Джастин",
+      "imageURL":"https://i.pinimg.com/736x/d2/6d/fd/d26dfd39addc4f2e704249dc5897d4c5.jpg"
+    },
+    {
+      "UserID":"3",
+      "UserName":"Стинг",
+      "imageURL":"https://im0-tub-ru.yandex.net/i?id=2c03cd4e5692f4d9f1b895b555280591-l&n=13"
+    },
+    {
+      "UserID":"4",
+      "UserName":"Роджер",
+      "imageURL":"https://pbs.twimg.com/media/DE3S1sYXYAE1-uX.jpg"
+    },
+    {
+      "UserID":"5",
+      "UserName":"Снуп",
+      "imageURL":"https://avatars.mds.yandex.net/get-zen_doc/1593343/pub_5df08eed3d008800b10916e9_5df0943d5fd55f00ae4c5cd2/scale_1200"
+    }
+  ],
+
+  "UsersofParty":
+  [
+    {
+      "PartyID":"1",
+      "UserID":"4"
+    },
+    {
+      "PartyID":"1",
+      "UserID":"3"
+    },
+    {
+      "PartyID":"2",
+      "UserID":"5"
+    },
+    {
+      "PartyID":"2",
+      "UserID":"2"
+    }
+  ]
+
+}
